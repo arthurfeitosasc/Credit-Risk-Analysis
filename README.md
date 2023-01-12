@@ -6,4 +6,4 @@ In this analysis, the credit risk dataset consisting of 32851 loan records to de
 
 [Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
 
-[Click here to see the analysis](https://arthurfeitosasc.github.io/IBM-HR-Attrition-Case-Study/)
+[Click here to see the analysis](https://arthurfeitosasc.github.io/Credit-Risk-Analysis/)
